@@ -1,0 +1,1 @@
+This repository details a machine learning-based NIDS for cyber-attack detection. Using the Snap Decision Tree Classifier, the model achieved a 99.8% accuracy with a perfect F1-Score. The system provides early warnings of malicious activity.
